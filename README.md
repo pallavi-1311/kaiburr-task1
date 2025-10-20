@@ -20,7 +20,3 @@ Ensure you have the following installed:
 - Apache Maven 3.6+
 - Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
