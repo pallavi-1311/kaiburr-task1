@@ -5,7 +5,7 @@ A brief description of your project, its purpose, and what it aims to achieve.
 
 ## Features
 - List of key features and functionalities.
-- Highlight any unique aspects of the project.
+- Highlight any unique aspects of the project
 
 ## Technologies Used
 - **Java**: Version 8 or higher
